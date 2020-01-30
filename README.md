@@ -3,6 +3,8 @@
 This is a simple one page PHP CRUD REST API example that uses PDO to connect MYSQL for CRUD operations.
 I found the code online and make some improvements and put them all into a single php file.
 
+Supported Requests: POST, GET, PUT, DELETE
+
 
     <?php
 
